@@ -1,4 +1,10 @@
 # Hi I'm Kristina! 👋
+<img
+src="./images/clementine-car.jpeg"
+alt="Clementine, my FIRST Tech Challenge robot"
+width="280"
+align="right"
+/>
 I'm a Computer Science student at Western University. I first got into programming when I joined my high school's robotics club and realized how cool it was to see my code come to life in the physical world. I met lots of amazing people in that club and was lucky enough to be trusted by them to lead our robot design for the 2023 FIRST Tech Challenge, where we won 1st place at the regional competition!
 
 Since then, I've had the chance to learn about more and more areas of computer science. What has kept me interested throughout is the problem-solving. I've always loved logic puzzles, and coding feels like an endless supply of them. I enjoy breaking down complicated problems, finding solutions, and then spending probably way too much time trying to make those solutions just a little bit better.
